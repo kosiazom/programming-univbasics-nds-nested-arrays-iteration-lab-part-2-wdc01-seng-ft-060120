@@ -11,7 +11,7 @@ row_index = 0
      end 
     element_index +=1 
   end
-  small_num_array << src[row_index][element_index]
+  small_num_array << small_number
   row_index +=1 
 end
 small_num_array
